@@ -27,6 +27,6 @@ update the victim hex in app.js file and restart application
 
 Step 5:
 
-use turbo intruder to bruteforce valid transferid using hexrange as payload
+use turbo intruder to bruteforce valid transferid using hexrange as payload file
 
 
