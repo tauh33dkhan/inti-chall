@@ -29,7 +29,7 @@ app.get('/transfer/:from/:to/:amount', (req, res) =>{
 });
 
 function getTransfer(transferId){
-  if (transferId == "29bc99e0-5146-11ed-b899-696ecf770022"){
+  if (transferId == "29bc99e0-5146-11ed-b899-696ecf770022"){ // you have to change this tranferId with vicitm transferId manually
     return true
   } else {
     return false
